@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+
+}
+.satisfait{bottom: red;}
+.principale{
+    margin-left: 2vw;
+    width: 96vw;
+    height: 70vh;
+    
+}
+.identification
+{ height: 30%;
+
+}
+input{
+    margin: 2%;
+    width: 20%;
+    height: 30% ;
+    border-radius: 3%;
+}
+textarea{
+    margin-right: 2cm;
+    width: 90%;
+}
+.prenom,.nom{
+    width: 25%;
+    height: 25%;
+}
+.valider{
+    background-color: green;
+}
+
+.champ{
+    width: 25%;
+    height: 25%;
+
+}
+button{color: #000;}
