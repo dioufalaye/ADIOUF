@@ -1,0 +1,73 @@
+.titre2{
+    width: 95%;
+    height:13%;
+    margin: auto;
+    background-color:rgb(114, 190, 235);
+    margin-top: 1%;
+   
+}
+.question{
+    font-family: 'Open Sans', sans-serif;
+    font-size:large ;
+    color: honeydew;
+    margin-top: 2%;
+    float: left;
+    margin-left: 19%;
+}
+.button{
+    width: 15%;
+    height: 45%;
+    background-color: rgb(114, 190, 235);
+    float: right;
+    margin-right: 5%;
+    margin-top: 2%;
+
+}
+.menuadmin{
+    background-color: whitesmoke;
+    width: 95%;
+    height: 85%;
+    margin: auto;
+}
+.menu{
+    position: absolute;
+    float: left;
+    margin-left:1%;
+    background-color:  rgb(114, 190, 235);
+    width: 20%;
+    height: 20%;
+    margin-top: 3%;
+
+}
+.ci{
+    background-image:url(vingette-8.png) ;
+    position: absolute;
+    float: left;
+    margin-left: 8%;
+    margin-top: 4%;
+    border-radius: 50%;
+    border: solid #c9f3f5;
+    width: 30%;
+    height: 70%;
+}
+.menu1{
+   
+    background-color:white;
+    position: absolute;
+    float: left;
+    margin-left:1%;
+    width: 20%;
+    height: 30%;
+    margin-top:12.70%;
+}
+.container{
+    float: left;
+    margin-left:5%;
+}
+.im{
+    float: right;
+    margin-right: -130%;
+    width: 20%;
+    height: 50%;
+    margin-top: -30%;
+}
